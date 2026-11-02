@@ -17,7 +17,7 @@
 | Keywords / 关键词 / キーワード | `[generic searchable terms in three languages]` |
 | First public URL and UTC timestamp / 首次公开记录 / 初回公開記録 | `[verified URL and timestamp; do not backdate]` |
 | Revision date / 修订日期 / 改訂日 | `[YYYY-MM-DD]` |
-| License / 许可 / ライセンス | `[selected documentation license]` |
+| License / 许可 / ライセンス | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Archived Release / 归档版本 / アーカイブ版 | `[tag and URL, after publication]` |
 | Version DOI / 版本 DOI / バージョン DOI | `[verified DOI only; otherwise pending]` |
 
