@@ -4,7 +4,7 @@
 
 ### 1. Prepare outside the public repository
 
-Copy [the template](templates/disclosure-template.md) into a private drafting location. Replace every placeholder with actual implementation facts. Select the public author/rights holder and a documentation license. Confirm the right to share all included material before public upload.
+Copy [the template](templates/disclosure-template.md) into a private drafting location. Replace every placeholder with actual implementation facts. Use Peng Bo as the author and CC BY 4.0 for original documentation, unless separately indicated. Confirm the right to share all included material before public upload.
 
 Use a stable ID such as `TD-0001`, a generic title, and a path such as `speech-translation/response-card-interaction.md`. These are naming examples, not disclosed implementations. Include architecture, state transitions, algorithms or pseudocode, reproducible examples, parameters, failure handling, variations and dated references. Record which language is authoritative and review the other two translations.
 
@@ -38,7 +38,7 @@ Choose a new tag such as `v1.0.0` at the reviewed commit. Publish a normal Relea
 
 ### 1. 在非公开位置准备
 
-复制[三语模板](templates/disclosure-template.md)，以真实实现替换全部占位符。确定公开作者、权利人和文档许可，确认所含材料可公开。
+复制[三语模板](templates/disclosure-template.md)，以真实实现替换全部占位符。原创文档默认署名 Peng Bo 并采用 CC BY 4.0（另有标注除外），确认所含材料可公开。
 
 使用稳定编号（如 `TD-0001`）、通用技术名称和稳定路径。记录架构、状态转换、算法或伪代码、可复现示例、参数、故障处理、替代实现和带日期的参考资料。上述编号与首页主题仅为命名示例。注明权威语言，核对另两种语言的译文。
 
@@ -62,7 +62,7 @@ Choose a new tag such as `v1.0.0` at the reviewed commit. Publish a normal Relea
 
 ### 1. 非公開の場所で準備
 
-[三言語テンプレート](templates/disclosure-template.md)をコピーし、実装の事実で全項目を埋めます。公開する著者名、権利者、文書ライセンスを決め、資料を共有する権限をアップロード前に確認します。
+[三言語テンプレート](templates/disclosure-template.md)をコピーし、実装の事実で全項目を埋めます。別途記載がなければオリジナル文書の著者を Peng Bo、ライセンスを CC BY 4.0 とし、資料を共有する権限をアップロード前に確認します。
 
 固定 ID（例：`TD-0001`）、一般的な技術名称、固定パスを使用します。構成、状態遷移、アルゴリズムや疑似コード、再現例、パラメーター、障害処理、代替実装、日付付き参考資料を記載します。例示は実際の技術開示ではありません。正本の言語を明示し、他の二言語を確認します。
 

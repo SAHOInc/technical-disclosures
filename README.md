@@ -13,7 +13,7 @@ A growing collection of technical ideas and implementation notes by Peng Bo, sha
 - [Article catalog](CATALOG.md)
 - [English / Chinese / Japanese article template](templates/disclosure-template.md)
 - [Publishing and Zenodo archiving guide](PUBLICATION.md)
-- [Rights and licensing status](LICENSE)
+- [CC BY 4.0 documentation license](LICENSE)
 
 Use generic technical titles, stable article IDs and reproducible examples. Each article presents the same technical scope in English, Chinese and Japanese, identifies its source language, and records revisions. Questions and technical discussion are welcome through [Issues](https://github.com/SAHOInc/technical-disclosures/issues).
 
@@ -26,7 +26,7 @@ Use generic technical titles, stable article IDs and reproducible examples. Each
 - [文章目录](CATALOG.md)
 - [英中日三语文章模板](templates/disclosure-template.md)
 - [发布与 Zenodo 归档指南](PUBLICATION.md)
-- [权利及许可状态](LICENSE)
+- [CC BY 4.0 文档许可](LICENSE)
 
 使用通用技术名称、稳定文章编号和可复现示例。每篇文章的英中日版本保持相同技术范围，注明原文语言并保留修订记录。欢迎通过 [Issues](https://github.com/SAHOInc/technical-disclosures/issues) 提问和讨论。
 
@@ -39,7 +39,7 @@ Peng Bo の技術的なアイデアと実装記録を、学習・議論・協力
 - [記事一覧](CATALOG.md)
 - [英中日テンプレート](templates/disclosure-template.md)
 - [公開と Zenodo アーカイブの手順](PUBLICATION.md)
-- [権利とライセンスの状態](LICENSE)
+- [CC BY 4.0 文書ライセンス](LICENSE)
 
 一般的な技術名称、固定の記事 ID、再現可能な例を使用します。英中日で同じ技術内容を扱い、原文の言語と改訂履歴を明示します。[Issues](https://github.com/SAHOInc/technical-disclosures/issues) での質問や技術的な議論を歓迎します。
 
@@ -70,3 +70,11 @@ Topic folders are created when articles are ready, for example speech translatio
 - [Zenodo: enable a repository](https://help.zenodo.org/docs/github/enable-repository/)
 - [Zenodo: archive a Release](https://help.zenodo.org/docs/github/archive-software/github-upload/)
 - [Zenodo: metadata](https://help.zenodo.org/docs/github/describe-software/)
+
+## License / 许可 / ライセンス
+
+Copyright © 2026 Peng Bo. Unless otherwise indicated, original documentation, templates and original illustrations are shared under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Credit Peng Bo, link the license, and indicate changes. See [LICENSE](LICENSE) for details and a suggested attribution.
+
+除另有标注外，原创文档、模板与原创插图采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)：转载、改编及商用时须署名 Peng Bo、附许可链接并注明修改。详情及署名示例见 [LICENSE](LICENSE)。
+
+別途記載がない限り、オリジナル文書・テンプレート・図版は [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) で共有します。共有・改変・商用利用の際は Peng Bo のクレジット、ライセンスへのリンク、変更の明示が必要です。詳細と表示例は [LICENSE](LICENSE) を参照してください。

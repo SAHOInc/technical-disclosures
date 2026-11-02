@@ -1,0 +1,23 @@
+{
+  "title": "Technical Disclosures — Technical ideas and implementation notes / 技术分享 / 技術共有",
+  "creators": [
+    {
+      "name": "Peng, Bo"
+    }
+  ],
+  "description": "<p>Technical ideas, implementation notes, and practical engineering knowledge by Peng Bo, shared for learning, discussion, and collaboration in English, Chinese, and Japanese.</p><p>Peng Bo 的技术想法与实现记录，用于学习、交流与协作，提供英中日三语内容。</p><p>Peng Bo の技術アイデアと実装記録を、学習・議論・協力のために英中日で共有します。</p>",
+  "upload_type": "publication",
+  "publication_type": "technicalnote",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "technical documentation",
+    "implementation notes",
+    "engineering",
+    "English",
+    "中文",
+    "日本語",
+    "技术分享",
+    "技術共有"
+  ]
+}

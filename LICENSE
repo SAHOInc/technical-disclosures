@@ -1,19 +1,47 @@
-RIGHTS AND LICENSING STATUS / 权利及许可状态 / 権利とライセンスの状態
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+SPDX-License-Identifier: CC-BY-4.0
 
-No additional reuse license has been selected for this repository.
-Public availability alone does not grant a reuse license beyond
-rights provided by applicable law and the hosting service's terms.
-Any separately licensed third-party material remains subject to its own license.
-Choose and record a documentation license before the first Zenodo release,
-and ensure that repository and archive metadata agree.
+Copyright (c) 2026 Peng Bo
 
-本仓库尚未选择额外的再利用许可。
-公开可访问本身不构成额外的再利用许可；适用法律及托管服务条款提供的权利除外。
-具有单独许可的第三方材料仍遵守其各自许可。
-首次 Zenodo 发布前应选定并记录文档许可，确保仓库与归档元数据一致。
+English
+Unless otherwise indicated, the original documentation, templates and original
+illustrations in this repository are licensed under the Creative Commons
+Attribution 4.0 International License. The license terms are incorporated by
+reference at:
+https://creativecommons.org/licenses/by/4.0/legalcode.en
 
-本リポジトリでは追加の再利用ライセンスをまだ選択していません。
-公開アクセスのみをもって追加の再利用ライセンスを付与するものではありません。
-適用法令およびホスティングサービスの規約による権利は別途適用されます。
-第三者の資料に個別のライセンスがある場合、そのライセンスに従います。
-最初の Zenodo 公開前に文書ライセンスを選び、アーカイブのメタデータと一致させます。
+You may share and adapt the licensed material, including for commercial use,
+subject to the license terms. Give appropriate credit to Peng Bo, link to the
+license, and indicate changes. Do not imply endorsement. The license remains
+available to recipients who comply with its terms. No warranties are provided.
+Separately identified third-party material remains subject to its own terms;
+links and citations do not relicense external material.
+
+Suggested attribution:
+Peng Bo, Technical Disclosures, <article title and revision>,
+https://github.com/SAHOInc/technical-disclosures
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+Changes: <describe modifications, if any>.
+
+中文
+除另有标注外，本仓库的原创文档、模板与原创插图采用知识共享
+署名 4.0 国际许可（CC BY 4.0）。许可全文通过以下链接纳入本声明：
+https://creativecommons.org/licenses/by/4.0/legalcode.zh-hans
+
+可以在许可条款下转载、分享、修改及商业使用；须适当署名 Peng Bo、
+附许可链接并注明修改，不得暗示作者为使用行为背书。
+遵守条款者可持续依据本许可使用。材料不提供担保。
+单独标注的第三方材料遵守各自条款；引用和链接不改变外部材料的许可。
+
+日本語
+別途記載がない限り、本リポジトリのオリジナル文書、テンプレート、
+オリジナル図版はクリエイティブ・コモンズ 表示 4.0 国際
+（CC BY 4.0）ライセンスで提供します。以下の全文を参照により組み込みます：
+https://creativecommons.org/licenses/by/4.0/legalcode.ja
+
+ライセンス条件に従い、商用を含む共有・改変が可能です。
+Peng Bo への適切なクレジット、ライセンスへのリンク、変更の明示が必要です。
+著者による支持を示唆しないでください。条件を遵守する利用者は引き続き
+本ライセンスを利用できます。資料は無保証で提供されます。
+第三者の資料に個別の条件がある場合はその条件に従います。
+引用やリンクによって外部資料のライセンスが変更されることはありません。
